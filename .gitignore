@@ -38,7 +38,9 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# ignore outpit directories
+# ignore output directories
 /figs/
 /output/
 
+# ignore data directory until paper is accepted.
+/data/
