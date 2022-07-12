@@ -1,6 +1,6 @@
 ################################  FILE LICENSE  ################################
 #
-#	This file is copyright (C) 2020 Yvette Bauder and Matthew Kosnik
+#	This file is copyright (C) 2022 Yvette Bauder and Matthew Kosnik
 #
 #	This program is free software; you can redistribute it and/or modify it 
 #	under the terms of version 3 the GNU General Public License as published 
@@ -15,6 +15,15 @@
 #	To view a copy of the license go to:
 #	http://www.gnu.org/licenses/licenses.html#GPL
 #	
+################################################################################
+
+################################################################################
+## Yvette Bauder, Briony Mamo, Glenn A. Brock, Matthew A. Kosnik. 2022 (In revision). 
+## One Tree Reef Foraminifera: a relic of the pre-colonial Great Barrier Reef
+## Conservation Palaeobiology of Marine Ecosystems: Concepts and Applications
+## Geological Society of London Special Publication.
+##
+## Contact: Matthew Kosnik, Matthew.Kosnik@mq.edu.au or mkosnik@alumni.uchicago.edu
 ################################################################################
 
 ############################  About this script file  ##########################
