@@ -1,0 +1,115 @@
+Functional_Type,Morphotype,Order,Family,Genus,Species,H8,H39,H40,H42,OTI1,OTI8,OTI20,OTI25,OTI33,OTI34,OTI36,OTI38,OTI39,OTI43,OTI47,OTI51,OTI52,OTI53,OTI54,W1,W2,W7,W12,W15,W20,W21
+Heterotrophic,Flattened.tapered,Rotaliida,Tortoplectellidae,Tortoplectella,Abditodentrix rhomboidalis,0,1,0,0,1,2,1,0,1,2,0,2,1,4,4,5,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Plano.convex,Rotaliida,Acervulinidae ,Acervulina,Acervulina mabahethi,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,2,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Adelosina carinatastriata,43,83,22,28,33,86,46,66,71,60,28,25,18,43,50,42,0,3,6,27,42,62,66,54,124,77
+Heterotrophic,Milioline,Miliolida,Cribrolinoididae,Adelosina,Adelosina cf. A. pulchella,2,0,5,3,0,0,3,0,0,0,0,0,0,0,3,1,0,0,1,0,3,0,0,0,0,0
+Symbiont,Milioline,Miliolida,Alveolinidae,Alveolinella,Alveolinella quoii,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opportunistic,Tapered.cylindrical,Lituolida,Lituolidae,Ammobaculites,Ammobaculites sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Symbiont,Plano.convex,Rotaliida,Amphisteginidae,Amphistegina,Amphistegina lessonii,0,3,4,0,3,2,6,6,2,0,0,0,6,4,4,0,9,5,6,1,3,4,2,0,0,6
+Symbiont,Plano.convex,Rotaliida,Amphisteginidae,Amphistegina,Amphistegina lobifera,0,0,0,14,2,0,1,0,0,0,0,0,0,0,0,0,4,2,23,0,0,0,3,2,0,0
+Symbiont,Plano.convex,Rotaliida,Amphisteginidae,Amphistegina,Amphistegina radiata,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Tapered.cylindrical,Miliolida,Hauerinidae,Articulina,Articulina alticostata,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,3,2
+Symbiont,Biconvex.trochospiral,Rotaliida,Calcarinidae,Baculogypsina,Baculogypsina sphaerulata,2,7,12,24,0,0,1,0,1,0,0,2,5,0,1,1,0,0,4,0,0,2,0,0,2,0
+Opportunistic,Flattened.tapered,Rotaliida,Bolivinitidae,Bolivina,Bolivina variabilis,0,0,0,0,0,8,3,2,5,7,0,5,0,9,6,4,0,2,0,0,0,0,0,0,0,0
+Opportunistic,Flattened.tapered,Rotaliida,Bolivinellidae,Rugobolivinella,Bolivinella elegans,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opportunistic,Tapered.cylindrical,Rotaliida,Buliminoididae,Buliminoides,Buliminoides williamsoniana,0,0,0,0,0,0,3,0,0,1,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,2
+Symbiont,Biconvex.trochospiral,Rotaliida,Calcarinidae,Calcarina,Calcarina capricornia n. sp.,29,11,59,76,5,0,12,2,10,3,16,3,98,9,3,15,56,21,103,19,10,5,4,12,27,2
+Symbiont,Biconvex.trochospiral,Rotaliida,Calcarinidae,Calcarina,Calcarina mayori,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Heterotrophic,Flattened.ovoid,Nodosariida,Lagenidae,Seguenzaella,Cerebrina lacunata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Plano.convex,Rotaliida,Cibicididae,Cibicidoides,Cibicioides cf. C. basilanensis,0,0,1,5,2,10,7,0,0,4,0,2,6,17,12,6,2,3,0,0,1,1,4,4,0,0
+Heterotrophic,Plano.convex,Spirillinida,Planispirillinidae,Conicospirillinoides,Conicospirillinoides sp. 1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Rounded.planispiral,Miliolida,Cornuspiridae,Cornuspira,Cornuspira planorbis,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Plano.convex,Rotaliida,Cymbaloporidae,Cymbaloporella,Cymbaloporella tabellaeformis,0,0,0,0,0,0,7,0,0,0,0,0,1,0,1,0,1,2,3,0,0,0,2,0,0,0
+Heterotrophic,Plano.convex,Rotaliida,Cymbaloporidae,Cymbaloporetta,Cymbaloporetta bradyi,7,0,7,5,5,3,14,0,7,4,27,4,3,4,8,25,12,3,10,4,10,0,5,5,11,0
+Heterotrophic,Plano.convex,Rotaliida,Cymbaloporidae,Cymbaloporetta,Cymbaloporetta sp. 1,0,0,0,0,0,4,8,4,13,0,0,2,8,0,7,0,1,3,2,0,3,5,0,0,3,0
+Heterotrophic,Rounded.planispiral,Rotaliida,Elphidiidae,Elphidium,Elphidium advenum,20,23,7,0,33,23,18,15,16,15,30,14,6,30,8,3,19,27,19,41,30,46,19,39,23,48
+Heterotrophic,Rounded.planispiral,Rotaliida,Elphidiidae,Elphidium,Elphidium craticulatum,9,3,10,2,5,0,1,0,2,3,3,0,4,2,5,0,6,2,7,1,1,3,23,14,2,0
+Heterotrophic,Rounded.planispiral,Rotaliida,Elphidiidae,Elphidium,Elphidium cf. E. excavatum,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Rounded.planispiral,Rotaliida,Elphidiidae,Elphidium,Elphidium macellum,5,0,0,2,2,1,5,2,0,3,3,0,1,3,2,2,4,0,0,1,1,3,2,3,2,0
+Heterotrophic,Rounded.planispiral,Rotaliida,Elphidiidae,Elphidium,Elphidium maorium,11,10,4,3,15,13,5,7,9,24,11,6,3,13,21,14,0,0,0,9,9,9,7,10,8,14
+Heterotrophic,Rounded.planispiral,Rotaliida,Notorotaliidae,Cristatavultus,Elphidium milletti,0,1,4,0,0,0,3,4,4,19,5,2,0,4,3,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Biconvex.trochospiral,Rotaliida,Anomalinidae,Epistomaroides,Epistomaroides polystomelloides,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Biconvex.trochospiral,Rotaliida,Anomalinidae,Epistomaroides,Epistomaroides punctatus,0,3,1,8,2,0,3,0,2,0,5,0,3,0,10,4,2,4,0,0,3,0,0,0,2,0
+Heterotrophic,Plano.convex,Rotaliida,Eponididae,Eponides,Eponides cf. E. repandus,0,0,0,0,0,0,2,0,4,18,0,0,1,4,3,5,0,2,0,0,0,0,0,0,0,0
+Opportunistic,Biconvex.trochospiral,Rotaliida,Cassidulinidae,Favocassidulina,Favocassidulina favus,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Tapered.cylindrical,Rotaliida,Reussellidae,Fijiella,Fijiella simplex,0,0,0,0,0,0,1,0,2,2,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Biconvex.trochospiral,Polymorphinida,Ellipsolagenidae,Fissurina,Fissurina bispinata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Biconvex.trochospiral,Polymorphinida,Ellipsolagenidae,Fissurina,Fissurina sp. 1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opportunistic,Rounded.planispiral,Rotaliida,Cassidulinidae,Globocassidulina,Globocassidulina bisecta,0,1,0,0,0,0,1,0,0,0,1,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Tapered.cylindrical,Polymorphinida,Polymorphinidae,Guttulina,Guttulina sp. 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0,0,1,2,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Hauerina,Hauerina earlandi,23,15,8,6,24,15,3,9,12,8,16,21,13,14,11,16,1,5,0,5,0,6,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Hauerina,Hauerina pacifica,0,0,2,0,2,0,1,0,0,0,2,2,0,0,0,2,0,3,2,3,0,3,0,0,0,0
+Opportunistic,Rounded.planispiral,Rotaliida,Haynesinidae,Haynesina,Haynesina depressula,0,0,0,0,0,0,1,0,1,0,0,1,0,3,1,2,0,0,0,0,0,0,0,0,0,0
+Symbiont,Rounded.planispiral,Rotaliida,Nummulitidae,Heterostegina,Heterostegina depressa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Opportunistic,Tapered.cylindrical,Rotaliida,Bolivinitidae,Loxostomina,Loxostomina limbata,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,2,2,2,2,0,0,0,0,2,0,0
+Symbiont,Milioline,Miliolida,Soritidae,Marginopora,Marginopora vertebralis,0,0,0,3,15,0,1,2,0,0,15,6,6,0,0,0,3,2,0,0,0,0,0,2,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Miliolinella,Miliolinella subrotunda,4,0,0,5,0,0,2,4,2,0,8,6,0,7,3,6,6,7,7,3,0,0,5,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Miliolinella,Miliolinella sp. 1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Miliolinella,Miliolinella sp. 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Miliolinella,Miliolinella sp. 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Plano.convex,Rotaliida,Cymbaloporidae,Millettiana,Millettiana milletti,5,0,4,0,4,3,5,4,4,4,10,13,6,4,7,0,11,6,16,0,3,7,9,5,2,2
+Symbiont,Flattened.tapered,Miliolida,Peneroplidae,Monalysidium,Monalysidium acicularis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Heterotrophic,Plano.convex,Rotaliida,Rosalinidae,Neoconorbina,Neoconorbina sp. 1,0,0,0,2,2,3,1,0,0,4,0,0,0,0,5,4,3,0,0,0,0,0,0,2,0,0
+Symbiont,Biconvex.trochospiral,Rotaliida,Calcarinidae,Neorotalia,Neorotalia calcar,0,0,0,11,8,3,6,0,7,0,0,4,13,0,2,3,4,3,5,5,0,0,2,0,0,0
+Heterotrophic,Tapered.cylindrical,Miliolida,Nubeculariidae,Nubeculina,Nubeculina advena,0,0,1,0,0,3,1,0,0,0,0,0,0,0,0,4,0,3,0,0,0,3,0,0,0,0
+Opportunistic,Tapered.cylindrical,Textulariida,Olgiidae,Olgita,Olgia pacifica,0,0,0,0,0,0,1,4,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0
+Symbiont,Rounded.planispiral,Rotaliida,Nummulitidae,Operculina,Operculina? ammonoides,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Heterotrophic,Plano.convex,Rotaliida,Discorbidae,Orbitina,Orbitina parri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Riveroinidae,Pseudohauerina,Parahauerinoides fragilissima,0,0,0,0,0,0,0,0,1,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Symbiont,Milioline,Miliolida,Soritidae,Parasorites,Parasorites sp. 1,0,1,0,2,1,1,3,1,0,3,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+Symbiont,Milioline,Miliolida,Peneroplidae ,Peneroplis,Peneroplis pertusus,0,0,0,0,6,2,8,0,4,6,0,4,7,0,7,7,20,9,6,1,1,0,0,0,0,0
+Symbiont,Milioline,Miliolida,Peneroplidae ,Peneroplis,Peneroplis planatus,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Heterotrophic,Plano.convex,Rotaliida,Glabratellidae,Pileolina,Pileolina? minogasaformis,0,0,0,0,1,0,1,0,1,0,0,0,0,4,3,2,3,5,6,0,0,1,5,0,0,0
+Heterotrophic,Rounded.planispiral,Spirillinida,Planispirillinidae,Planispirillina,Planispirillina inaequalis,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Rounded.planispiral,Spirillinida,Planispirillinidae,Planispirillina,Planispirillina spinigera,0,0,0,0,0,0,2,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Sigmoihauerina,Pseudohauerina involuta,2,0,0,0,0,1,3,1,2,8,6,6,12,6,6,3,3,14,0,4,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Pseudomassilina,Pseudomassilina macilenta,0,1,0,0,2,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,4,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Ptychomiliola,Ptychomiliola? sp. 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Pyrgo,Pyrgo sp. 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Pyrgo,Pyrgo sp. 2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina cf. Q. agglutinans,2,1,1,2,5,2,1,9,0,0,3,0,0,2,1,0,3,5,1,4,0,4,3,3,0,4
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina baccaerti,19,16,15,13,12,37,10,22,54,58,35,41,20,22,16,8,2,6,13,22,25,24,25,34,22,48
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina bosciana,28,36,3,1,18,14,20,30,18,25,16,13,8,24,12,18,12,12,17,42,43,39,26,20,35,26
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina latidentella,0,0,0,0,2,0,0,0,0,0,0,9,0,4,3,0,0,4,6,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Varidentella,Quinqueloculina neostriatula,41,24,85,81,59,36,35,74,35,15,30,49,41,28,19,38,42,53,18,18,18,18,46,35,14,50
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina parkeri,0,0,4,0,1,1,1,0,0,0,0,0,0,0,0,0,0,4,4,1,1,1,0,4,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina cf. Q. parkeri,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina cf. Q. patagonica,28,36,3,1,19,15,20,30,18,26,17,13,9,24,13,19,11,15,17,43,43,40,26,20,35,26
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina rariformis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina seminula,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9,18,10,0,0,4,9,5,0,6
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Pseudotriloculina,Quinqueloculina subgranulata,7,30,9,5,0,5,3,4,4,3,3,4,7,7,4,4,12,11,10,39,30,21,9,9,9,2
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina subparkeri,4,7,7,5,1,1,3,0,0,2,5,3,4,2,2,1,10,2,3,3,0,3,0,3,2,2
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina subpolygona,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,5,8,7,0,3,7,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina transversestriata,19,10,4,3,9,8,7,9,5,4,6,2,3,2,7,5,13,13,9,3,0,0,0,5,8,4
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina cf. Q. victoriensis,1,1,0,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,2,1
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina sp. 1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina sp. 2,22,14,8,5,23,14,2,8,12,7,15,20,12,13,10,17,3,7,0,5,11,7,24,34,18,20
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina sp. 3,4,3,3,6,2,1,1,6,2,2,1,2,1,2,3,2,8,5,2,5,3,7,0,3,0,2
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Quinqueloculina,Quinqueloculina sp. 4,7,1,1,2,3,0,3,2,1,2,3,4,0,0,2,5,2,6,0,4,5,0,3,3,0,0
+Opportunistic,Flattened.tapered,Hormosinina,Reophacidae,Reophax,Reophax nana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Opportunistic,Rounded.planispiral,Lituolida,Trochamminidae,Rotaliammina,Rotaliammina chitinosa,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Biconvex.trochospiral,Rotaliida,Discorbidae,Rotorbis,Rotorbis cf. R. auberii,4,0,0,0,8,7,1,0,11,12,0,0,0,4,10,5,0,4,0,0,6,0,7,4,3,0
+Heterotrophic,Biconvex.trochospiral,Textulariida,Eggerellidae,Rudigaudryina,Rudigaudryina minor,0,0,0,3,0,0,1,2,0,2,0,0,3,0,1,5,9,6,0,0,0,0,0,0,0,0
+Opportunistic,Flattened.tapered,Rotaliida,Bolivinitidae,Sagrinella,Sagrinella jugosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Opportunistic,Tapered.cylindrical,Textulariida,Textulariidae,Sahulia,Sahulia barkeri,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Biconvex.trochospiral,Robertinida,Ceratobuliminidae,Saintclairoides,Saintclairoides marlysae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Siphonaperta,Siphonaperta distorqueata,36,40,23,36,36,49,31,40,34,31,21,35,18,48,28,27,21,22,15,26,32,46,21,24,23,50
+Heterotrophic,Tapered.cylindrical,Rotaliida,Siphogenerinoididae,Siphogenerina,Siphogenerina raphana,0,0,0,0,1,0,1,6,2,0,6,2,1,0,3,4,2,0,0,0,0,1,0,0,0,0
+Heterotrophic,Tapered.cylindrical,Textulariida,Pseudogaudryinidae,Siphoniferoides,Siphoniferoides siphonifera,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Symbiont,Milioline,Miliolida,Soritidae,Sorites,Sorites orbiculus,0,0,4,9,4,11,5,2,0,7,7,7,18,0,3,3,3,4,1,1,3,4,12,14,11,0
+Heterotrophic,Rounded.planispiral,Rotaliida,Acervulinidae,Sphaerogypsina,Sphaerogypsina globulus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Heterotrophic,Rounded.planispiral,Spirillinida,Spirillinidae,Spirillina,Spirillina sp. 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Spiroloculinidae,Spiroloculina,Spiroloculina angulata,9,7,6,17,5,2,12,6,2,2,28,9,14,4,7,3,15,16,15,11,17,0,0,5,3,0
+Heterotrophic,Milioline,Miliolida,Spiroloculinidae,Spiroloculina,Spiroloculina corrugata,5,2,1,2,3,2,4,0,4,0,6,9,3,4,4,6,9,11,6,5,10,0,3,0,0,0
+Heterotrophic,Milioline,Miliolida,Spiroloculinidae,Spiroloculina,Spiroloculina cf. S. depressa,0,0,0,2,0,1,1,0,0,0,0,1,0,0,0,0,5,6,0,4,1,0,0,2,0,0
+Heterotrophic,Milioline,Miliolida,Spiroloculinidae,Spiroloculina,Spiroloculina foveolata,0,1,0,2,2,1,1,0,0,0,3,3,0,0,0,1,2,0,3,0,0,1,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Spiroloculinidae,Spiroloculina,Spiroloculina sp. 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0
+Opportunistic,Tapered.cylindrical,Textulariida,Textulariidae,Textularia,Textularia agglutinans,0,0,0,0,0,0,1,0,0,0,0,9,5,4,1,5,3,4,4,0,0,0,2,0,0,0
+Opportunistic,Tapered.cylindrical,Textulariida,Textulariidae,Textularia,Textularia lateralis,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,5,1,5,0,0,0,0,0,0,0,0
+Opportunistic,Tapered.cylindrical,Textulariida,Textulariidae,Textularia,Textularia jparkeri n. sp.,0,1,0,0,0,0,0,0,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+Opportunistic,Tapered.cylindrical,Rotaliida,Uvigerinidae,Trifarina,Trifarina pacifica,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Triloculina,Triloculina barnardi,0,5,70,0,9,2,28,11,7,0,0,27,8,0,19,16,15,11,7,30,25,15,10,9,6,6
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Triloculina,Triloculina earlandi,0,0,0,0,0,0,1,4,0,2,0,2,0,4,4,2,0,0,0,0,0,0,2,0,0,0
+Heterotrophic,Milioline,Miliolida,Hauerinidae,Triloculina,Triloculina striatotrigonula,0,0,0,6,1,0,1,1,0,0,1,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0
+Opportunistic,Tapered.cylindrical,Lituolida,Trochamminidae,Trochammina,Trochammina cf. T. subconica,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opportunistic,Tapered.cylindrical,Rotaliida,Uvigerinidae,Uvigerina,Uvigerina cf. U. porrecta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
