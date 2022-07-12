@@ -1,6 +1,6 @@
 ################################  FILE LICENSE  ################################
 #
-#	This file is copyright (C) 2021 Yvette Bauder and Matthew Kosnik
+#	This file is copyright (C) 2022 Yvette Bauder and Matthew Kosnik
 #
 #	This program is free software; you can redistribute it and/or modify it 
 #	under the terms of version 3 the GNU General Public License as published 
@@ -17,7 +17,11 @@
 ################################################################################
 
 ############################  About this script file  ##########################
-## This script will set the preferences for the plots used in the MRes paper
+## This script will set the preferences for the plots
+## Yvette Bauder, Briony Mamo, Glenn A. Brock, Matthew A. Kosnik. 2022 (In revision). 
+## One Tree Reef Foraminifera: a relic of the pre-colonial Great Barrier Reef
+## Conservation Palaeobiology of Marine Ecosystems: Concepts and Applications
+## Geological Society of London Special Publication.
 
 ############################  Packages needed as well as base R  #################
 {my_packages <- c("dichromat","viridis")
