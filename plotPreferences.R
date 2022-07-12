@@ -16,12 +16,17 @@
 #	
 ################################################################################
 
-############################  About this script file  ##########################
-## This script will set the preferences for the plots
+################################################################################
 ## Yvette Bauder, Briony Mamo, Glenn A. Brock, Matthew A. Kosnik. 2022 (In revision). 
 ## One Tree Reef Foraminifera: a relic of the pre-colonial Great Barrier Reef
 ## Conservation Palaeobiology of Marine Ecosystems: Concepts and Applications
 ## Geological Society of London Special Publication.
+##
+## Contact: Matthew Kosnik, Matthew.Kosnik@mq.edu.au or mkosnik@alumni.uchicago.edu
+################################################################################
+
+############################  About this script file  ##########################
+## This script will set the preferences for the plots
 
 ############################  Packages needed as well as base R  #################
 {my_packages <- c("dichromat","viridis")
